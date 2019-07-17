@@ -46,5 +46,5 @@ if __name__ == '__main__':
         if h<1:
             break
     
-    plt.plot(a,y[])
+    plt.plot(a,y)
     plt.show()
